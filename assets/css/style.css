@@ -8,10 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+  font-family: 'Roboto';
+  src: URL('/assets/Roboto-Regular.ttf') format('truetype');
+}
+
 body {
   background: #fff;
   color: #666666;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", "Open Sans", sans-serif;
 }
 
 a {
