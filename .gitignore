@@ -1,0 +1,33 @@
+# Agent & AI Persistent Memory (Crucial to prevent leakage)
+AGENT.md
+.antigravitycli/
+.gemini/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs & Editor Configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sass/CSS Build Artifacts
+.sass-cache/
+*.css.map
+*.scss.map
+
+# Node/Dependency directories (just in case local compilation is used in the future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
